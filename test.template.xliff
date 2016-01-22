@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="file.ext" xml:space="preserve">
+        <body>
+            <trans-unit id="1928" approved="yes">
+                <source>Download all invoices for a specific time period.</source>
+            </trans-unit>
+            <trans-unit id="1929" approved="yes">
+                <source>Booking scheduler data as iCal for rooms</source>
+            </trans-unit>
+            <trans-unit id="1930" approved="yes">
+                <source>Booking scheduler data as iCal for categories</source>
+            </trans-unit>
+            <trans-unit id="1931" approved="yes">
+                <source>Blocking end date must be later than blocking start date</source>
+            </trans-unit>
+            <trans-unit id="1932" approved="yes">
+                <source>MERGE: Reservation #%sourcenumber% merged into reservation #%targetnumber%</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
