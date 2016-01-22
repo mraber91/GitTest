@@ -4,7 +4,10 @@
         <body>
             <trans-unit id="1914" approved="yes">
                 <source>accounting.incomplete.message</source>
-                <target>Please complete these under myhotel / settings / accounting / products, otherwise no invoices can be closed.</target>
+                <target>Please complete these under myhotel 
+                / settings 
+                / accounting 
+                / products, otherwise no invoices can be closed.</target>
             </trans-unit>
             <trans-unit id="1918" approved="yes">
                 <source>override.contact.popup</source>
