@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
     <file source-language="en" datatype="plaintext" original="file.ext" target-language="en" xml:space="preserve">
+        <body>
             <trans-unit id="1914" approved="yes">
                 <source>accounting.incomplete.message</source>
                 <target>Please complete these under myhotel / settings / accounting / products, otherwise no invoices can be closed.</target>
