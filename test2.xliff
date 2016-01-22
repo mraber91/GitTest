@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file source-language="en" datatype="plaintext" original="file.ext" target-language="de" xml:space="preserve">
+        <body>
+            <trans-unit id="1931" approved="yes">
+                <source>Blocking end date must be later than blocking start date</source>
+                <target>Das Enddatum muss größer sein als das Startdatum</target>
+            </trans-unit>
+            <trans-unit id="1932" approved="yes">
+                <source>MERGE: Reservation #%sourcenumber% merged into reservation #%targetnumber%</source>
+                <target state="translated">ZUSAMMENFÜHRUNG: Reservierung #%sourcenumber% wurde in Reservierung #%targetnumber% übertragen</target>
+            </trans-unit>
+       </body>
+    </file>
+</xliff>
