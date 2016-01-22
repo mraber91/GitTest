@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file source-language="en" datatype="plaintext" original="file.ext" xml:space="preserve" target-language="fr">
+        <body>
+                      <trans-unit id="1913" approved="yes">
+                <source>Finances accounting</source>
+            <target>Financiële boekhouding</target></trans-unit>
+            <trans-unit id="1914" approved="yes">
+                <source>accounting.incomplete.message</source>
+            <target>Vult u a.u.b. uw gegevens aan onder: Mijn hotel/Instellingen/Financiën/Producten. Anders kunt u geen rekeningen sluiten.</target></trans-unit>
+            <trans-unit id="1915" approved="yes">
+                <source>Accounting settings incomplete!</source>
+            <target>Financiële configuratie compleet</target></trans-unit>
+            <trans-unit id="1916" approved="yes">
+                <source>Accounting</source>
+            <target>Boekhouding</target></trans-unit>
+            <trans-unit id="1917" approved="yes">
+                <source>Save Changes?</source>
+            <target>Wijzigingen opslaan</target></trans-unit>
+            <trans-unit id="1918" approved="yes">
+                <source>override.contact.popup</source>
+            <target>Bestaande gast overschrijven? Deze gast heeft actieve reserveringen, wat kan leiden tot problemen in de geschiedenis.</target></trans-unit>
+            <trans-unit id="1919" approved="yes">
+                <source>Invert selection</source>
+            <target>Selectie omkeren</target></trans-unit>
+            <trans-unit id="1920" approved="yes">
+                <source>Merge reservation</source>
+            <target>Reservering samenvoegen</target></trans-unit>
+            <trans-unit id="1921" approved="yes">
+                <source>Attention: Please ensure that all changes have been saved before merging reservations.</source>
+            <target>let op! Overtuig u zelf dat alle veranderingen zijn opgeslagen voordat u de reserveringen samenvoegt.</target></trans-unit>
+            <trans-unit id="1922" approved="yes">
+                <source>Search reservation to merge</source>
+            <target>Zoek reserveringen om samen te voegen.</target></trans-unit>
+            <trans-unit id="1923" approved="yes">
+                <source>merge</source>
+            <target>Samenvoegen</target></trans-unit>
+            <trans-unit id="1924" approved="yes">
+                <source>Search term</source>
+            <target>Zoekterm</target></trans-unit>
+            <trans-unit id="1925" approved="yes">
+                <source>Are you sure you want to merge reservation %s into reservation %s?</source>
+            <target>Bent u er zeker van dat u reservering %s in reservering %s wilt overdragen?</target></trans-unit>
+            <trans-unit id="1926" approved="yes">
+                <source>Really merge?</source>
+            <target>Werkelijk samenvoegen.</target></trans-unit>
+            <trans-unit id="1927" approved="yes">
+                <source>Download invoices</source>
+            <target>Download factuur</target></trans-unit>
+            <trans-unit id="1928" approved="yes">
+                <source>Download all invoices for a specific time period.</source>
+            <target>Download alle rekeningen in een specifieke tijdsperiode.</target></trans-unit>
+            <trans-unit id="1929" approved="yes">
+                <source>Booking scheduler data as iCal for rooms</source>
+            <target>Kamer -gerelateerde beschikbaarheid in iCal -formaat</target></trans-unit>
+            <trans-unit id="1930" approved="yes">
+                <source>Booking scheduler data as iCal for categories</source>
+            <target>Categorie - specifieke beschikbaarheid in iCal -formaat</target></trans-unit>
+            <trans-unit id="1931" approved="yes">
+                <source>Blocking end date must be later than blocking start date</source>
+            </trans-unit>
+            <trans-unit id="1932" approved="yes">
+                <source>MERGE: Reservation #%sourcenumber% merged into reservation #%targetnumber%</source>
+            </trans-unit>
+        
+        </body>
+    </file>
+</xliff>
