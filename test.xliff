@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file source-language="en" datatype="plaintext" original="file.ext" target-language="en" xml:space="preserve">
+            <trans-unit id="1914" approved="yes">
+                <source>accounting.incomplete.message</source>
+                <target>Please complete these under myhotel / settings / accounting / products, otherwise no invoices can be closed.</target>
+            </trans-unit>
+            <trans-unit id="1918" approved="yes">
+                <source>override.contact.popup</source>
+                <target>Override existing guest? This guest has already active reservations, which could end up in history problems.</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
