@@ -6,7 +6,9 @@
                 <source>accounting.incomplete.message</source>
                 <target>Please complete these under myhotel 
                 / settings 
+                
                 / accounting 
+                
                 / products, otherwise no invoices can be closed.</target>
             </trans-unit>
             <trans-unit id="1918" approved="yes">
