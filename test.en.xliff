@@ -9,7 +9,11 @@
                 
                 / accounting 
                 
-                / products, otherwise no invoices can be closed.</target>
+                / products, otherwise no invoices can be closed.
+                
+                
+                
+                </target>
             </trans-unit>
             <trans-unit id="1918" approved="yes">
                 <source>override.contact.popup</source>
